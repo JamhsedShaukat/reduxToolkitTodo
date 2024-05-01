@@ -1,0 +1,24 @@
+.form-conatiner{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.inputfeild{
+    width: 100%;
+    padding: 10px 5px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.submit-btn{
+    right: -10;
+    width: 70px;
+    background-color:rgb(239 68 68 / var(--tw-bg-opacity));
+    padding: 12px 5px;
+    border-radius: 10px;
+    color: white;
+}
